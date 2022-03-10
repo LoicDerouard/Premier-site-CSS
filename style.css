@@ -1,0 +1,59 @@
+    header 
+    {
+        font-family: Verdana;
+        text-align: center;
+    }
+    header h1
+    {
+        font-size: xx-large;
+    }
+    .Images
+    {
+        text-align: center;
+        background-color: white;
+    }
+    .Paragraphe-image
+    {
+        text-align: center;
+        font-size: small;
+        background-color: white;
+    
+    }
+    main
+    {
+        line-height: 130%;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+        margin-left: 35%;
+        width: 35em;
+        font-size: 15px;
+    }
+    body
+    {
+        background-color: #cecece;
+    }
+    .Titre2
+    {
+        text-align: center;
+    }
+    .span   
+    {
+        font-weight: bold;
+    }
+    footer
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+        margin-left: 35%;
+        width: 35em;
+        line-height: 200%;
+        font-size: 20px;
+    }
+    .credit
+    {
+        font-size: 15px;
+    }
+    span
+    {
+        font-weight: bold; 
+    }
